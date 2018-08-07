@@ -1,1 +1,2 @@
-# Personal-Exercises-cpp
+# Personal-Exercises
+cpp, shell
